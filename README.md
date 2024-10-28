@@ -21,11 +21,13 @@ To access the system, use the following credentials:
 
   #Login Page                                                                                                                           
 
-
+![Screenshot (51)](https://github.com/user-attachments/assets/314ecc6c-cd65-464d-86a0-a1808f70ca6a)
 
   #Employee Dashboard
-  
+
+  ![Screenshot (52)](https://github.com/user-attachments/assets/75165896-4c32-41d3-9e0e-3d3c4526e93e)
 
 
    #Search  User
-  
+
+  ![Screenshot (53)](https://github.com/user-attachments/assets/0470de81-f216-4200-a624-6588e94d3d86)
