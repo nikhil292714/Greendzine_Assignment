@@ -1,4 +1,4 @@
-# Project Name Greendzine_Assignment
+# Greendzine_Assignment
 
 ## Description
 
@@ -31,6 +31,10 @@ To access the system, use the following credentials:
    #Search  User
 
   ![Screenshot (53)](https://github.com/user-attachments/assets/0470de81-f216-4200-a624-6588e94d3d86)
+
+  ### Steps to run 
+  - ### Go to the backend directory in the terminal and type "npm install" to install the required dependencies for the backend.
+  - ### In the same terminal , type "npm run dev" to start the server.
 
 
 
