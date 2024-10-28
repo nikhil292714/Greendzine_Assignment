@@ -1,4 +1,4 @@
-# Project Name Readme
+# Project Name Greendzine_Assignment
 
 ## Description
 
@@ -31,3 +31,8 @@ To access the system, use the following credentials:
    #Search  User
 
   ![Screenshot (53)](https://github.com/user-attachments/assets/0470de81-f216-4200-a624-6588e94d3d86)
+
+
+
+  # Created by NIKHIL RAJ GUPTA
+
