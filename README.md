@@ -32,8 +32,7 @@ To access the system, use the following credentials:
 
   ![Screenshot (53)](https://github.com/user-attachments/assets/0470de81-f216-4200-a624-6588e94d3d86)
 
-  ##Aadhar
-  ![Image](https://github.com/user-attachments/assets/6f179744-f22d-4972-83db-e37330549152)
+  
 
   ### Steps to run 
   - ### Go to the backend directory in the terminal and type "npm install" to install the required dependencies for the backend.
